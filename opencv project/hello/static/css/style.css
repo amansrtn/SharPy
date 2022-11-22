@@ -3,8 +3,12 @@
     margin: 0px;
     padding: 0px;
     font-family: 'Baloo Bhai 2', cursive;
+    
 }
 /* navigation */
+body {
+    overflow-x: hidden;
+}
 #navbar {
     display: flex;
     align-items: center;
@@ -67,7 +71,7 @@
     background:url(../img/background.jpg) no-repeat center center/cover;
     height: 553px;
     /* width:1263px; */
-    width: 100%;
+    width: 100vw;
     top: 0px;
     left: 0px;
     position: fixed;
@@ -248,6 +252,7 @@ footer{
     width: 100vw;
     padding-top: 40px;
     color: rgba(251, 251, 251, 0.929);
+    
 }
 .footer-content{
     display: flex;
@@ -255,6 +260,7 @@ footer{
     justify-content: center;
     flex-direction: column;
     text-align: center;
+    overflow: hidden;
 }
 .footer-content h3{
     font-size: 2.5rem;
@@ -303,7 +309,7 @@ footer{
     padding: 20px;
     padding-bottom: 40px;
     text-align: center;
-    width: 100vw;
+    width: 96vw;
 }
 .footer-bottom p{
     float: left;
