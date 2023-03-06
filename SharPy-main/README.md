@@ -64,7 +64,7 @@ Backend: Django, OpenCV (Python)
 </tr>
 <tr>
 <td> Aman Kumar Singh </td>
-<td> <a href="https://github.com/AmankumarSingh18">AmanKumarSingh18</a> </td>
+<td> <a href="https://github.com/amansrtn">amansrtn</a> </td>
   <td> Django, Web Implementation </td>
 </tr>
 <tr>
